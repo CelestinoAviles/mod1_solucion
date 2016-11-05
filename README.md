@@ -1,2 +1,2 @@
-# mod1_solucion
+# modulo1_solucion
 Solucion al modulo 1
